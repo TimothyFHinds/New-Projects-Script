@@ -23,7 +23,7 @@ pip install selenium
 
 1. __Clone__ the script files
 ```
-git clone https://github.com/TimothyFHinds/New-Projects
+git clone https://github.com/TimothyFHinds/New-Projects-Script
 ```
 2. __Edit create.bat__ and __create_repo.py__ where the comments indicate to make modifications. 
 3. __Move create.bat__ into your default directory. For example, mine is: *C:\Users\Tim*
